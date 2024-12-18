@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lahcen Idbendriss</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
-- 🔭 I’m currently working on **wordpress Project**
+- 🔭 I’m currently working on **React.js and express and MySQL Project**
 
 - 🌱 I’m currently learning **Python**
 
