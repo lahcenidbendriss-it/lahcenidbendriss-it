@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://new-portfolio-rouge-nine-18.vercel.app/](https://new-portfolio-rouge-nine-18.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-lahcenidbendriss.vercel.app/)
 
 - 💬 Ask me about **react.js,laravel**
 
 - 📫 How to reach me **lahcenidbendriss@gmail.com**
 
-- 📄 Know about my experiences [https://new-portfolio-rouge-nine-18.vercel.app/](https://new-portfolio-rouge-nine-18.vercel.app/)
+- 📄 Know about my experiences [https://portfolio-lahcenidbendriss.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
