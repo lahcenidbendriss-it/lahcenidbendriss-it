@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-lahcenidbendriss.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-lahcenidbendriss.vercel.app/]
 
 - 💬 Ask me about **react.js,laravel**
 
